@@ -42,6 +42,7 @@ A curated list of free construction, landscaping, and home improvement calculato
 - [BuiltRight HQ Drywall Calculator](https://builtrighthq.com/tools/drywall-calculator) — drywall sheets, compound, tape, and screws.
 - [BuiltRight HQ Board Foot Calculator](https://builtrighthq.com/tools/board-foot-calculator) — lumber board feet for pricing and ordering.
 - [BuiltRight HQ Roofing Calculator](https://builtrighthq.com/tools/roofing-calculator) — shingles, underlayment, and flashing estimates.
+- [Roof Cost Data](https://roofcostdata.com/roof-replacement-cost-calculator) — US roof replacement cost ranges by roof size, material, location, and tear-off choice.
 
 ## Manufacturer Calculators
 
